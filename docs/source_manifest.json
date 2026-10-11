@@ -1,0 +1,212 @@
+[
+  {
+    "source": "src/analyze_inference_ablations_v13.py",
+    "release": "research/src/analyze_inference_ablations_v13.py",
+    "original_sha256": "113690856df7ded43371a75af17d5afc7c44fb70932f9d16d08dbd34216d5271",
+    "release_sha256": "113690856df7ded43371a75af17d5afc7c44fb70932f9d16d08dbd34216d5271",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/audit_invariance_progress_v13.py",
+    "release": "research/src/audit_invariance_progress_v13.py",
+    "original_sha256": "26c108524c3a4702ff77b0e555905396cddbba1a4bf805d8d807222e60582804",
+    "release_sha256": "26c108524c3a4702ff77b0e555905396cddbba1a4bf805d8d807222e60582804",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/audit_latency_quality_v13.py",
+    "release": "research/src/audit_latency_quality_v13.py",
+    "original_sha256": "764e7d33e69aca2e2255a8a4f92a7edcac13abd9554ff0e0072e1a6e99287e00",
+    "release_sha256": "764e7d33e69aca2e2255a8a4f92a7edcac13abd9554ff0e0072e1a6e99287e00",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/common.py",
+    "release": "research/src/common.py",
+    "original_sha256": "18dd80e8904d231b7b7cd7845f3124ee77cd76815a3c7623e992487bc753563e",
+    "release_sha256": "5d9422843d4c70754860fdf663aff016528020edd79b9e9c3bbf9c3936ec3004",
+    "changes": "External AT_ROOT default replaces original machine path."
+  },
+  {
+    "source": "src/controller_runtime.py",
+    "release": "research/src/controller_runtime.py",
+    "original_sha256": "aea9eccb60df6ba025a095b70b10af31d96f2dec294e7a228772dd37a69defb7",
+    "release_sha256": "aea9eccb60df6ba025a095b70b10af31d96f2dec294e7a228772dd37a69defb7",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/dual_view_policy.py",
+    "release": "research/src/dual_view_policy.py",
+    "original_sha256": "828c3f1798ec6a8bbf2a19446f1f22d74ff8ab06726aead28d7ea31f603f04b6",
+    "release_sha256": "828c3f1798ec6a8bbf2a19446f1f22d74ff8ab06726aead28d7ea31f603f04b6",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/freeze_inference_ablations_v13.py",
+    "release": "research/src/freeze_inference_ablations_v13.py",
+    "original_sha256": "06d37e44ee478ca801a3abb397522e16c5b5e24279f988da66ce1ca49aace08a",
+    "release_sha256": "02db9b0dac75d656ab9db193add77a12338da439e477c47bd3f7bb2d800b36fb",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/generate_inference_ablations_v13.py",
+    "release": "research/src/generate_inference_ablations_v13.py",
+    "original_sha256": "c7e0453c21f8ba6458cc4459b9bf7cb4a37ecf1f82a92ca5f620a8f7ee080ccf",
+    "release_sha256": "12bfe7710818a2b097c7640d497302cf5d880f7bc57cff42bb281a4913bb5a19",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/inference_ablations_v13.py",
+    "release": "research/src/inference_ablations_v13.py",
+    "original_sha256": "3b8bd3e6dd6e80c3df753e8e2b0a0ef7584b57d013c0626a98eea16f4aa920e8",
+    "release_sha256": "9c459d89c3c180361da4fa224abd13aac60d45ca81b3868b81e497d4cf4d4c9a",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/latency_inference_v13.py",
+    "release": "research/src/latency_inference_v13.py",
+    "original_sha256": "09db43fdd413eaac98bc0fc6cb39b69b2a6487ce587714faac415ecd9c275bc6",
+    "release_sha256": "8dddca8584ac89e15665a9df794e6b8568d03dff325b1cc2549022e07818f0f7",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/qwen7b_adaptive_v12.py",
+    "release": "research/src/qwen7b_adaptive_v12.py",
+    "original_sha256": "dcdf9750342eb92ceea04488f37164711ab9cb714e0dfd8e9bdd12dd3747605d",
+    "release_sha256": "47b6d4444413ae99079ac29efadb9b8c49dbfd5c5487be7a9512e2e9f7b35c42",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/recovery_diagnostic_v13.py",
+    "release": "research/src/recovery_diagnostic_v13.py",
+    "original_sha256": "c02e2dbbf6bd0a4f37d8bf390347155f1f576e06762bbd61355f8b9f8b592e2b",
+    "release_sha256": "527b291dae798e73d1ae5aa30e66c9602f4b6ddd4fa1b7a480d1dc47fab4374c",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/run_inference_ablations_v13.py",
+    "release": "research/src/run_inference_ablations_v13.py",
+    "original_sha256": "a2526546313e3a71dd1f6f7cad112fd9cce88b52b2e5d855dee60ffca883c0a2",
+    "release_sha256": "90a558eea8c8acc25ad0152f2f407155befeacee0ad5147e92ced56481dd0930",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/run_supplements_v13.py",
+    "release": "research/src/run_supplements_v13.py",
+    "original_sha256": "8904e743b56ded19ce08612d7c495493614b27c8f80364ce5f49d5795198e731",
+    "release_sha256": "ec52c4cdfa2085884615ec9f7b9253d61c6207895e6893040921fafba5ed9e97",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/score_bank.py",
+    "release": "research/src/score_bank.py",
+    "original_sha256": "eca85136eeb3f4a839040304d02b5e136b4a9c8780563727532521f17dae2e5d",
+    "release_sha256": "eca85136eeb3f4a839040304d02b5e136b4a9c8780563727532521f17dae2e5d",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/shared_decode.py",
+    "release": "research/src/shared_decode.py",
+    "original_sha256": "b3cf233c9949f8ab0d9f0ee5b8bedde3452fe7a7359828780cff253daabdf008",
+    "release_sha256": "b3cf233c9949f8ab0d9f0ee5b8bedde3452fe7a7359828780cff253daabdf008",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/shared_prefix.py",
+    "release": "research/src/shared_prefix.py",
+    "original_sha256": "11f724351505768d16a227eec8880920ee1e62a57c642ca21df7766b207225de",
+    "release_sha256": "11f724351505768d16a227eec8880920ee1e62a57c642ca21df7766b207225de",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "src/sufficiency_model_v7.py",
+    "release": "research/src/sufficiency_model_v7.py",
+    "original_sha256": "3e196bea1437373dbdfa64db8741ff38f24e2c49a71662fd26b5cf0f97587a0c",
+    "release_sha256": "3e196bea1437373dbdfa64db8741ff38f24e2c49a71662fd26b5cf0f97587a0c",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/final_primary_v5_complete/runs/final_source_v5/1791604474/prepare_data.py",
+    "release": "research/src/prepare_data.py",
+    "original_sha256": "67e1bf61924d1c6af65fd03123ef92e6313618081598c4841213ecf9996b86c6",
+    "release_sha256": "67e1bf61924d1c6af65fd03123ef92e6313618081598c4841213ecf9996b86c6",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/final_primary_v5_complete/runs/final_source_v5/1791604474/generate_bank.py",
+    "release": "research/src/generate_bank.py",
+    "original_sha256": "ad68121fc70951fee0367f35de713533d8af6a121894fcc394430ed5ea0f8e37",
+    "release_sha256": "ad68121fc70951fee0367f35de713533d8af6a121894fcc394430ed5ea0f8e37",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/final_primary_v5_complete/runs/final_source_v5/1791604474/generate_bank_expand.py",
+    "release": "research/src/generate_bank_expand.py",
+    "original_sha256": "b2e3512fc329cf0f977e8b8b0a03dabb211a23a074f3b84be823f819fc2927a8",
+    "release_sha256": "b2e3512fc329cf0f977e8b8b0a03dabb211a23a074f3b84be823f819fc2927a8",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/final_primary_v5_complete/runs/final_source_v5/1791604474/embed_shared_prefix.py",
+    "release": "research/src/embed_shared_prefix.py",
+    "original_sha256": "702fc22f9e2c8d55be4802796cfca3d9a52b724cd4494c72cc5c3e85a1a90912",
+    "release_sha256": "702fc22f9e2c8d55be4802796cfca3d9a52b724cd4494c72cc5c3e85a1a90912",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/final_primary_v5_complete/runs/final_source_v5/1791604474/embed_queries.py",
+    "release": "research/src/embed_queries.py",
+    "original_sha256": "3404458f6ac3da2dfd0a7352db3f405d354b8e4df36210d398851db080372ff2",
+    "release_sha256": "3404458f6ac3da2dfd0a7352db3f405d354b8e4df36210d398851db080372ff2",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/final_primary_v5_complete/runs/final_source_v5/1791604474/train_controller_v3.py",
+    "release": "research/src/train_controller_v3.py",
+    "original_sha256": "dfcf72df7bd7dd10700dc020bd3db06440a4f588e538b691793bb4225595ae1f",
+    "release_sha256": "dfcf72df7bd7dd10700dc020bd3db06440a4f588e538b691793bb4225595ae1f",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/final_primary_v5_complete/runs/final_source_v5/1791604474/select_policy_v4.py",
+    "release": "research/src/select_policy_v4.py",
+    "original_sha256": "e7e75f10ec97d63e4da9ebeb1728b6fcc5e55f56ad5c8ef92eb06c1f581c3e79",
+    "release_sha256": "e7e75f10ec97d63e4da9ebeb1728b6fcc5e55f56ad5c8ef92eb06c1f581c3e79",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/gsm_v7a_existing_complete/src/train_sufficiency_v7.py",
+    "release": "research/src/train_sufficiency_v7.py",
+    "original_sha256": "9f54a5f4b784f59a1c2da09d951c082f094166f9c43ded2a09d42ae76f1c8bfc",
+    "release_sha256": "9f54a5f4b784f59a1c2da09d951c082f094166f9c43ded2a09d42ae76f1c8bfc",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "archived_versions/gsm_v7a_existing_complete/src/select_sufficiency_v7.py",
+    "release": "research/src/select_sufficiency_v7.py",
+    "original_sha256": "7fd5ae9f9c33b669f0d86ad66cb2a10865d6f21e996565f3090c146b922b726b",
+    "release_sha256": "7fd5ae9f9c33b669f0d86ad66cb2a10865d6f21e996565f3090c146b922b726b",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "figure_scripts/render_advanced_supplements_v13.py",
+    "release": "research/figure_scripts/render_advanced_supplements_v13.py",
+    "original_sha256": "1ebe8e336cb4a48a3974d7c5b30ea5e58552483eb179c912246a87f0bbec9080",
+    "release_sha256": "1ebe8e336cb4a48a3974d7c5b30ea5e58552483eb179c912246a87f0bbec9080",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "figure_scripts/render_v13_scientific_figures.py",
+    "release": "research/figure_scripts/render_v13_scientific_figures.py",
+    "original_sha256": "66ba456b754d9a6a3b58c95abe412b4ebdadc7c3940e199a5e09a742b303a733",
+    "release_sha256": "66ba456b754d9a6a3b58c95abe412b4ebdadc7c3940e199a5e09a742b303a733",
+    "changes": "Directory relocation; code preserved."
+  },
+  {
+    "source": "figure_scripts/verify_scoped_tar.py",
+    "release": "research/figure_scripts/verify_scoped_tar.py",
+    "original_sha256": "000bc231481417b71499738d9d967d632c72f7d27bb7ae94fc33dea9a3fb76f3",
+    "release_sha256": "000bc231481417b71499738d9d967d632c72f7d27bb7ae94fc33dea9a3fb76f3",
+    "changes": "Directory relocation; code preserved."
+  }
+]

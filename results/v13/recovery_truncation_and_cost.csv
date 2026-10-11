@@ -1,0 +1,8 @@
+﻿condition,ratio,responses,truncated,total_output_tokens,counting
+question_only,,192,1,1193,true CoT K5; other conditions K3
+true_cot,0.5,320,0,1920,true CoT K5; other conditions K3
+true_cot,0.7,320,0,1920,true CoT K5; other conditions K3
+true_cot,1.0,320,0,1920,true CoT K5; other conditions K3
+mismatched_cot,0.5,192,68,3027,true CoT K5; other conditions K3
+mismatched_cot,0.7,192,128,4621,true CoT K5; other conditions K3
+mismatched_cot,1.0,192,128,4713,true CoT K5; other conditions K3

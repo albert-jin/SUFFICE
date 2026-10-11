@@ -1,0 +1,62 @@
+[
+  {
+    "file": "framework.png",
+    "source": "Suffice_Paper/figs/fig_framework-v2-4k.png",
+    "source_sha256": "52086131e86fb506fd97de2049570466ec294b50d6cbf18a1232680200e71492",
+    "sha256": "590ec5d1cfd2afba66c20a33a528acaeae21c2b39a527c96a77bedc226d9249b"
+  },
+  {
+    "file": "framework.pdf",
+    "source": "Suffice_Paper/figs/fig_framework-v2.pdf",
+    "source_sha256": "59e4ba6bae4055140caf9a01b08651ba840c31e3e70dccd4b3a6794c6e1fe2da",
+    "sha256": "65d639c475f70bed4170f5ceaa7c67bebe195cd6f258b6614cc8bae13cddbe3b"
+  },
+  {
+    "file": "motivation.png",
+    "source": "Suffice_Paper/figs/fig_motivation-v1.png",
+    "source_sha256": "58b86e2a96ae54a6a2f7183aacf1deaa16fc28df5f1df266ffe6df82b60305dc",
+    "sha256": "abca20a04b9874bfe0575a3457582a2f5a17e79f6a62f789995595201ef4a4a5"
+  },
+  {
+    "file": "accuracy_cost.png",
+    "source": "Adaptive_TokenSkip_Results_and_Figures_20261011/figures/01_accuracy_cost_frontier.png",
+    "source_sha256": "897eb7e9cbdd2d05285967e12d6d2c7352fae87f82929c130faa6046d43c5c11",
+    "sha256": "3559bfa0f7fba11d929d656eb0409b54f9ae57f89d4894fa3a8f1392495e6178"
+  },
+  {
+    "file": "accuracy_cost.pdf",
+    "source": "Adaptive_TokenSkip_Results_and_Figures_20261011/figures/01_accuracy_cost_frontier.pdf",
+    "source_sha256": "c30b09c47f123d7d4bf9768ef905c99b3fad645ce2523f4c918a2c889255ccf6",
+    "sha256": "8e40f90eaefe0237a725f698daa59e4feaccc47c404f695c012ded6e994580c4"
+  },
+  {
+    "file": "ablations.png",
+    "source": "Adaptive_TokenSkip_Results_and_Figures_20261011/figures/02_inference_ablation_forest.png",
+    "source_sha256": "f060a844bab91d7d8f2acdeb88b63d257abc12abda7e1540c1ca901697aa4348",
+    "sha256": "2d56972956df71a17ac4d2d53c663b7b1d52778efd138547e13b4e86671fe944"
+  },
+  {
+    "file": "ablations.pdf",
+    "source": "Adaptive_TokenSkip_Results_and_Figures_20261011/figures/02_inference_ablation_forest.pdf",
+    "source_sha256": "8f3c8ce971c73ec388029a7888f676230e8368f8b9b3add80a5d43108495bb74",
+    "sha256": "08fcd3ecb127a732f5f67c9dc33551f86740af3a904451e45ac956bbfdf3de2b"
+  },
+  {
+    "file": "repeated_latency.png",
+    "source": "Adaptive_TokenSkip_Additional_V14_20261011/figures/03_repeated_latency.png",
+    "source_sha256": "d9a5f8ee6a460f546b3ff95efc5792b37ac5e8833d7aa58391f0b09809e943d4",
+    "sha256": "034ba84c79cd2217e3a0fe756a8880e3237b6d94c8497f5e0eb0484a9aacb7f0"
+  },
+  {
+    "file": "repeated_latency.pdf",
+    "source": "Adaptive_TokenSkip_Additional_V14_20261011/figures/03_repeated_latency.pdf",
+    "source_sha256": "ba3bdc86c0805753b4edb61c3736c0ba53f0ae3d2b07231894453be0a2fea0b9",
+    "sha256": "e85c8631637108a4b822a797f59f1ff60d8189c2b42d872208d8ec806e200e06"
+  },
+  {
+    "file": "motivation.pdf",
+    "source": "motivation.png",
+    "export": "PDF image wrapper of the selected v1 artwork",
+    "sha256": "679da7c505c7e2eb687fb2e22d615a8aed2059b97cbed9700b007e16bf559c33"
+  }
+]

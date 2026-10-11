@@ -1,0 +1,9 @@
+{
+  "ratios": [0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0],
+  "min_ratio": 0.5,
+  "slack": 0.0,
+  "probe_seeds": [17, 43, 79],
+  "loss_recipe": "soft_boundary",
+  "recoverability_used_online": false,
+  "generation_calls_per_query": 1
+}

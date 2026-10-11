@@ -1,0 +1,147 @@
+[
+  {
+    "dataset": "openai/gsm8k",
+    "revision": "740312add88f781978c0658806c59bc2815b9866",
+    "file": "README.md"
+  },
+  {
+    "dataset": "openai/gsm8k",
+    "revision": "740312add88f781978c0658806c59bc2815b9866",
+    "file": "main/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "openai/gsm8k",
+    "revision": "740312add88f781978c0658806c59bc2815b9866",
+    "file": "main/train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "HuggingFaceH4/MATH-500",
+    "revision": "6e4ed1a2a79af7d8630a6b768ec859cb5af4d3be",
+    "file": "README.md"
+  },
+  {
+    "dataset": "HuggingFaceH4/MATH-500",
+    "revision": "6e4ed1a2a79af7d8630a6b768ec859cb5af4d3be",
+    "file": "test.jsonl"
+  },
+  {
+    "dataset": "tau/commonsense_qa",
+    "revision": "94630fe30dad47192a8546eb75f094926d47e155",
+    "file": "README.md"
+  },
+  {
+    "dataset": "tau/commonsense_qa",
+    "revision": "94630fe30dad47192a8546eb75f094926d47e155",
+    "file": "data/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "tau/commonsense_qa",
+    "revision": "94630fe30dad47192a8546eb75f094926d47e155",
+    "file": "data/train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "tau/commonsense_qa",
+    "revision": "94630fe30dad47192a8546eb75f094926d47e155",
+    "file": "data/validation-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "cais/mmlu",
+    "revision": "c30699e8356da336a370243923dbaf21066bb9fe",
+    "file": "README.md"
+  },
+  {
+    "dataset": "cais/mmlu",
+    "revision": "c30699e8356da336a370243923dbaf21066bb9fe",
+    "file": "all/auxiliary_train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "cais/mmlu",
+    "revision": "c30699e8356da336a370243923dbaf21066bb9fe",
+    "file": "all/dev-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "cais/mmlu",
+    "revision": "c30699e8356da336a370243923dbaf21066bb9fe",
+    "file": "all/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "cais/mmlu",
+    "revision": "c30699e8356da336a370243923dbaf21066bb9fe",
+    "file": "all/validation-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "README.md"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "algebra/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "algebra/train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "counting_and_probability/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "counting_and_probability/train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "geometry/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "geometry/train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "intermediate_algebra/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "intermediate_algebra/train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "number_theory/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "number_theory/train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "prealgebra/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "prealgebra/train-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "precalculus/test-00000-of-00001.parquet"
+  },
+  {
+    "dataset": "EleutherAI/hendrycks_math",
+    "revision": "21a5633873b6a120296cce3e2df9d5550074f4a3",
+    "file": "precalculus/train-00000-of-00001.parquet"
+  }
+]
